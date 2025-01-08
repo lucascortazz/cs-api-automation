@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "cwAoCXtFoQ+rdwrhvVDLz6NemwAYv6JqssU1n6sSsl4aq39bkWhfgNri1kTZjnFI44PLfTSsNq3VBxYqUXwjig==",
+  "success": true,
+  "projectFilePath": "/Users/lucascortazzo/Documents/Taller/Challenges/Job2477/FraudApiTests/FraudApiTests/FraudApiTests.csproj",
+  "expectedPackageFiles": [
+    "/Users/lucascortazzo/.nuget/packages/microsoft.codecoverage/17.12.0/microsoft.codecoverage.17.12.0.nupkg.sha512",
+    "/Users/lucascortazzo/.nuget/packages/microsoft.net.test.sdk/17.12.0/microsoft.net.test.sdk.17.12.0.nupkg.sha512",
+    "/Users/lucascortazzo/.nuget/packages/microsoft.testplatform.objectmodel/17.12.0/microsoft.testplatform.objectmodel.17.12.0.nupkg.sha512",
+    "/Users/lucascortazzo/.nuget/packages/microsoft.testplatform.testhost/17.12.0/microsoft.testplatform.testhost.17.12.0.nupkg.sha512",
+    "/Users/lucascortazzo/.nuget/packages/mstest.testadapter/3.0.0/mstest.testadapter.3.0.0.nupkg.sha512",
+    "/Users/lucascortazzo/.nuget/packages/mstest.testframework/3.0.0/mstest.testframework.3.0.0.nupkg.sha512",
+    "/Users/lucascortazzo/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/lucascortazzo/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
